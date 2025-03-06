@@ -11,9 +11,9 @@ A **Library Management System** is a software application designed to help manag
 
 ## 🛠️ Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: JavaScript (Node.js, Express.js)
-- **Database**: [Specify your database, e.g., MongoDB, MySQL, Firebase]
-- **Other Tools**: [Mention any additional frameworks or libraries used]
+- **Backend**: JavaScript
+- **Database**: MySQL
+- **Other Tools**: Cursor, VScode, BlackBox AI
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
